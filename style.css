@@ -1,6 +1,5 @@
 .logo{
-    display: block;
-    margin-left: auto;
-    margin-top: auto;
-    width: 50%;
+    width: 200px; 
+    text-align: center; 
+    line-height:30px;
 }
